@@ -1,1 +1,1 @@
-# seedstars-contacts
+# Seed Stars Contacts Django Application
